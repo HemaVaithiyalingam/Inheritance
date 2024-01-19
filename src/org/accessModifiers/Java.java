@@ -18,6 +18,8 @@ public class Java extends InheritanceTypes {
 		
 		//working on git//
 		
+		//initially it is tough//
+		
 		
 	}
 }
