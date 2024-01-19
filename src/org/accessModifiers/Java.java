@@ -20,6 +20,8 @@ public class Java extends InheritanceTypes {
 		
 		//initially it is tough//
 		
+		//but very intersting//
+		
 		
 	}
 }
